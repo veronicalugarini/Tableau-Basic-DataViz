@@ -1,6 +1,6 @@
 # Tableau
 
-**DataViz: Basic Charts and Dashboards on Tableau **
+**DataViz: Basic Charts and Dashboards on Tableau**
 
 **1. Annual Bonus Analysis by Seller and Region**
 
