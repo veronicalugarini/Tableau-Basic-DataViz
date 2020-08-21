@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/64870434/90909933-ebe8bd00-e3ac-11ea-8961-08c73da37ce6.png)
 
 
-**3.Sales Order in Europe using Tableau Dataset "Sample SuperStore"**
+**3.Sales in Europe using Tableau Dataset "Sample SuperStore"**
 
 ![image](https://user-images.githubusercontent.com/64870434/90911237-0de33f00-e3af-11ea-8c3f-d1309e34e56e.png)
 
